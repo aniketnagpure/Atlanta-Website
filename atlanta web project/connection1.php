@@ -19,7 +19,7 @@
                 $_SESSION['mail']=$row['MAIL'];
                 echo"Login Successfully";
 
-                header("Location:admin_Dashboard.php");
+                header("Location:atlanta web project/admin_Dashboard.php");
             }
             else
             {
